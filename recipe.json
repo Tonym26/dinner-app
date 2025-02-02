@@ -1,0 +1,25 @@
+{
+    "name": "Burgers",
+    "ingredients": {
+      "additionalProp1": {
+        "name": "Bun",
+        "quantity": "8"
+      },
+      "additionalProp2": {
+        "name": "Burgers",
+        "quantity": "8"
+      },
+      "additionalProp3": {
+        "name": "Cheese",
+        "quantity": "8"
+      },
+      "additionalProp4": {
+        "name": "Lettuce",
+        "quantity": "8"
+      },
+      "additionalProp5": {
+        "name": "Tomato",
+        "quantity": "8"
+      }
+    }
+}
